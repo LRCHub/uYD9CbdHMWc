@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "コトノハ - Kotonoha",
+  "base_artist": "tuki.",
+  "createdAt": "2026-01-12T11:10:26.470120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コトノハ",
+      "artist": "ayaka",
+      "has_synced": false,
+      "path": "select/01_コトノハ_ayaka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コトノハ",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/02_コトノハ_絢香.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コトノハ",
+      "artist": "ロボ子さん",
+      "has_synced": true,
+      "path": "select/03_コトノハ_ロボ子さん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コトノハ",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/04_コトノハ_絢香.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "コトノハ",
+      "artist": "Endorfin.",
+      "has_synced": true,
+      "path": "select/05_コトノハ_Endorfin..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "コトノハ",
+      "artist": "Takahashi, Hitomi",
+      "has_synced": true,
+      "path": "select/06_コトノハ_Takahashi,_Hitomi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "コトノハ",
+      "artist": "Chitose Hajime",
+      "has_synced": false,
+      "path": "select/07_コトノハ_Chitose_Hajime.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "コトノハ (Instrumental)",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/08_コトノハ_(Instrumental)_絢香.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コトノハ",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/pl_01_コトノハ_tuki..txt"
+    }
+  ]
+}
